@@ -1,1 +1,2 @@
-grfico de statisticas
+grafico de statisticas
+teste de bibliotecas
